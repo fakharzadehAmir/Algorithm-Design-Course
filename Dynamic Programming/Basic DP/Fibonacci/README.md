@@ -1,7 +1,10 @@
 # Fibonacci
 The Fibonacci sequence is a well-known sequence defined as follows:
+
 Fibonacci(0) = 0
+
 Fibonacci(1) = 1
+
 Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 
 Now, write a program that takes a natural number 'n' as input and prints the remainder of Fibonacci(n) divided by (10^9 + 7).
