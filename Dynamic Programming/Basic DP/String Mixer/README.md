@@ -13,8 +13,8 @@ The input consists of three lines:
 - The third line contains the string S<sub>3</sub>.
 
 Constraints:
-- 0 <= length of S<sub>1</sub>, length of S<sub>2</sub> <= 10<sup>4</sup>
-- 1 <= length of S<sub>3</sub> <= 2*10<sup>4</sup>
+- 0 ≤ length of S<sub>1</sub>, length of S<sub>2</sub> ≤ 10<sup>4</sup>
+- 0 ≤ length of S<sub>3</sub> ≤ 2*10<sup>4</sup>
 
 ### Output
 
