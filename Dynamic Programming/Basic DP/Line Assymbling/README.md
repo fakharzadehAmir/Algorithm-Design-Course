@@ -18,7 +18,7 @@ You should output the maximum amount of food Max can eat on his way home.
 ### Example
 
 **Input**  
-6 2
+6 2  
 1 2 3 4 7 1  
 4 5 1 4 1 7  
 
