@@ -17,12 +17,12 @@ You should output the maximum amount of food Max can eat on his way home.
 
 ### Example
 
-**Input**
+**Input**  
 6 2
 1 2 3 4 7 1  
 4 5 1 4 1 7  
 
-**Output**
+**Output**  
 26  
 
 4 -> 5 -> (3 - 2) -> 4 -> 7 -> (7 - 2)
